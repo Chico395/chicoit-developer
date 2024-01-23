@@ -1,0 +1,15 @@
+.main{
+    background-color: burlywood;
+    width: 40%;
+    box-shadow: 1px 1px 10px silver;
+    margin-top: 45px;
+    padding: 10px;
+
+}
+h2{
+    font-family: 'Cairo', sans-serif;
+}
+
+input{
+    margin-bottom: 10px;
+}
